@@ -5,19 +5,19 @@ This is a spring boot stand-alone application, developed to manage simple to do 
 Once run command is executed on command prompt, access the application on web browser at: http://localhost:8082/login
 
 
-Notes:
+**Notes:**
 1.) This application is using in-memory database to persist the records, so every time the application is shutdown all previously stored records will be lost.
 2.) There are 3 in-memory user list configured to support multiple user. Below are username and password:
 	Username: pwd	Password: pwd123
 	Username: user1	Password: user1Pass
 	Username: user2	Password: user2Pass
 
-Pre-requisite to run this application:
+**Pre-requisite to run this application:**
 
 You need to have maven installed on your machine on which you want to run this application.
 Follow steps given at https://maven.apache.org/install.html to install maven(if required)
 
-Steps to run application:
+**Steps to run application:**
 
 1.) Open command prompt in administrative mode
 
