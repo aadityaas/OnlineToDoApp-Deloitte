@@ -1,5 +1,3 @@
-# OnlineToDoApp-Deloitte
-
 This is a spring boot stand-alone application, developed to manage simple to do list online.
 
 Once run command is executed on command prompt, access the application on web browser at: http://localhost:8082/login
